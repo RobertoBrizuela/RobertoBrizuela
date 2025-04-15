@@ -1,7 +1,8 @@
-# Hello, I'm Edgar Brizuela! 👋
+# Hello, I'm Edgar Roberto Brizuela! 👋
 
 ## 🚀 About Me
-Software developer passionate about creating solutions through code. I specialize in web development and data analysis using Python, PHP, and JavaScript frameworks.
+I am a software developer passionate about creating innovative solutions. I specialize in web development and data analysis using Python, PHP, and JavaScript frameworks.
+
 
 ## 🛠️ Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -17,7 +18,7 @@ Software developer passionate about creating solutions through code. I specializ
 - POS System: Point of sale system built with Laravel and PHP
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=edbrizuela&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertoBrizuela&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
 - LinkedIn: https://www.linkedin.com/in/edgar-brizuela/
